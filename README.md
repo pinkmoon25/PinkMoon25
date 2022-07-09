@@ -9,4 +9,4 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tushar-singh-6b063a14b/)
 [@twitterhandle](https://twitter.com/TusharS90674484) 
 - 😄 Pronouns: he
-- ⚡ Fun fact: Inquisitive, Humble , who loves music :notes: , reads :open_book: and plays guitar :guitar:
+- ⚡ Fun fact: An optimist , who loves music :notes: , reads :open_book: and plays guitar :guitar:
