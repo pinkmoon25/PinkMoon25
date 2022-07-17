@@ -2,9 +2,10 @@
 
 
   ## I am a Software developer
+     Approaching all aspects of life "the open source way".
 
-  I love problem-solving and coding, and I like building cool and interesting stuff.
-  Approaching all aspects of life "the open source way".
+  An evermore dedicated learner, an aspiring software engineer. I love all things programming and problem-solving.
+  
 - 🔭 learning full-stack at Microverse
 - :computer: JavaScript, React, Ruby, Ruby on rails. 
 - 💬 Ask me about Technology and life.
