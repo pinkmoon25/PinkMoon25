@@ -9,11 +9,11 @@
 
 - 👯 I’m looking to collaborate on **open-source projects**
 
-- 👨‍💻 All of my projects are available at [portfolio](https://pinkmoon25.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [portfolio](https://pinkmoon25.github.io/Tushar_Singh/)
 
 - 💬 Ask me about **Problem-solving, Programming, tech**
 
-- 📫 How to reach me **https://www.linkedin.com/in/meet-tushar-singh/**
+- 📫 How to reach me **[Tushar](https://www.linkedin.com/in/meet-tushar-singh/)**
 
 - 📄 Know about my experiences [resume](https://docs.google.com/document/d/1tczhsNiov3En3n3kXy5x35uLwK31ca7JR64prVXV7IE/edit?usp=sharing)
 
