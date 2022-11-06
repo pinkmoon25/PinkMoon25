@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **open-source projects**
 
-- 👨‍💻 All of my projects are available at [portfolio](https://pinkmoon25.github.io/Tushar_Singh/)
+- 👨‍💻 All of my projects are available at **[portfolio](https://pinkmoon25.github.io/Tushar_Singh/)**
 
 - 💬 Ask me about **Problem-solving, Programming, tech**
 
