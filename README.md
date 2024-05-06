@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **[Tushar](https://www.linkedin.com/in/meet-tushar-singh/)**
 
-- 📄 Know about my experiences [resume](https://docs.google.com/document/d/1C89CK70TPXSNvwE-002-7bGvo9iI2zIv/edit?usp=sharing&ouid=104445876920807220556&rtpof=true&sd=true)
-
 - ⚡ Fun fact **I enjoy Music, books & Coffee!**
 
 <h3 align="left">Connect with me:</h3>
