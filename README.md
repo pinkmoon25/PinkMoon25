@@ -5,13 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pinkmoon25&label=Profile%20views&color=0e75b6&style=flat" alt="pinkmoon25" /> </p>
 
-- 🌱 I’m currently learning **Rails**
+- 🌱 I’m currently learning **Backend Communication design patterns**
 
-- 👯 I’m looking to collaborate on **open-source projects**
+- 👯 I’m looking to work on **meaningful projects**
 
-- 👨‍💻 All of my projects are available at **[portfolio](https://pinkmoon25.github.io/Tushar_Singh/)**
-
-- 💬 Ask me about **Problem-solving, Programming, tech**
+- 💬 Ask me about **Backend Communication, Ruby, blockchain**
 
 - 📫 How to reach me **[Tushar](https://www.linkedin.com/in/meet-tushar-singh/)**
 
