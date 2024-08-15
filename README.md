@@ -1,7 +1,6 @@
 <p align="center"><img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/></p>
 <h1 align="center">Hi 👋, I'm Tushar</h1>
 <h3 align="center">A passionate Software developer from India :india: </h3>
-<h5 align="center">An evermore dedicated learner, an aspiring software engineer. I love all things programming and problem-solving.</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pinkmoon25&label=Profile%20views&color=0e75b6&style=flat" alt="pinkmoon25" /> </p>
 
